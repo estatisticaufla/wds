@@ -264,7 +264,7 @@ There are some more specific options you can apply when creating a page or a pos
 
 > **Note:** The Post List Page options are actually in the collection data within the `_config.yml` file.
 
-## Credits
+## Créditos
 
 - Thanks to [Simple Icons](https://simpleicons.org/) for providing the brand icons, by [Dan Leech](https://twitter.com/bathtype)
 - Thanks to [Sassline](https://sassline.com/) for the typographic basis, by [Jake Giltsoff](https://twitter.com/jakegiltsoff)
